@@ -33,7 +33,7 @@ You can [download the files directly from GitHub](https://github.com/cferdinandi
 
 **CDN**
 
-You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/events/dist/). I recommend linking to a specific version number or version range to prevent major updates from breaking your site. Smooth Scroll uses semantic versioning.
+You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/events/dist/). I recommend linking to a specific version number or version range to prevent major updates from breaking your site. Events uses semantic versioning.
 
 ```html
 <!-- Always get the latest version -->
